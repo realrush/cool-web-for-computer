@@ -1,0 +1,97 @@
+h1 {
+    animation: color-change 3s infinite;
+
+
+
+
+
+    text-align: center;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large
+    
+
+
+
+
+
+
+
+}
+
+
+button {
+
+    background-color: rgb(103, 101, 253);
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+
+    border-radius: 20%;
+
+    border-style: ridge;
+    text-align: center;
+
+
+
+
+
+}
+
+
+
+body{
+
+    background-color: rgb(133, 133, 133);
+
+
+
+
+
+}
+
+
+li {
+
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+
+
+
+}
+@keyframes color-change{
+
+    0%{
+        color: darkblue;
+    }
+    25% {
+        color: darkcyan;
+    }
+    50% {
+        color: aqua;
+    }
+    75% {
+        color: darkcyan;
+    }
+    100% {
+        color: darkblue;
+    }
+}
+
+p {
+
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+
+}
+
+a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+
+    text-align: center;
+
+}
